@@ -1,0 +1,8 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore secrets file
+secrets.toml
+
+# Ignore OS files
+.DS_Store
